@@ -1,10 +1,6 @@
 # devops-learning
 Repository documenting my DevOps learning journey and hands-on practice.
 
-# DevOps Learning Journey
-
-This repository documents my journey of learning DevOps from the ground up.
-
 My goal is to build strong fundamentals and gain hands-on experience with DevOps tools, workflows, and real-world practices.
 
 ## Learning Approach
