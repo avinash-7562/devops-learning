@@ -107,6 +107,3 @@ for every code commit above process should run
 
 coming to infra, on prem and cloud concepts are same 
 in on prem managing resources will be more
-
-
-[def]: images/Phases-of-sdlc-1024x739-1.png
