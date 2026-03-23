@@ -70,6 +70,9 @@ Few organisations like NASA, DRDO checks for both incoming and outgoing traffic
 
 AWS:
 -----
+
+ec2-user will be created by aws by default
+
 N.Virginia US-east-1 : use this region by default here the charges will be less for resources
 
 Under AWS datacenters we have regions and under regions we have zones

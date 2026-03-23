@@ -106,6 +106,26 @@ N - nth fragment
 awk -F ":" '{print $1F}' /etc/passwd
 awk -F ":" '{print $1F,$3F}' /etc/passwd
 
+vim editor(visually improved):
+----------------------------------
+vim is advanced than vi
+vim <file_name> - open the file if exists
+                  create and open the file if not exists
+Modes in vim/vi:
+esc mode(press Esc)
+insert mode(press i)
+command/colon mode(press :)
+
+vim features:
+:q! --> to come out of file
+:wq! --> save and come out of file
+:set nu --> display line numbers
+:<line_number> --> to go to specific line number
+:/<word> --> to search for word from top to bottom
+:?<word> --> to search for word from bottom to top
+:<line_number>d --> deletes the particular line
+:noh --> no highlight
+
 
 
 
