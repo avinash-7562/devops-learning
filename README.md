@@ -25,4 +25,4 @@ My goal is to build strong fundamentals and gain hands-on experience with DevOps
 linux/ → Linux fundamentals and commands
 git/ → Git concepts and workflows
 
-More topics will be added as I progress in my DevOps journey.
+More topics will be added as I progress in my DevSecOps journey.
