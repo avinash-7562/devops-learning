@@ -1,5 +1,5 @@
 # devops-learning
-Repository documenting my DevOps learning journey and hands-on practice.
+Repository documenting my DevSecOps learning journey and hands-on practice.
 
 My goal is to build strong fundamentals and gain hands-on experience with DevOps tools, workflows, and real-world practices.
 
