@@ -81,4 +81,18 @@ To https://github.com/avinash-7562/devops-learning.git
 girij@Girija_Nulu MINGW64 ~/avinash_devops/devops-learning (main)
 $
 
+renaming repo name:
+====================
+1. rename the repo in github by directly going to settings in repo
+2. in the local execute below commands
+   $ git remote set-url origin https://github.com/avinash-7562/devsecops-learning.git
 
+   $ git remote -v
+   origin  https://github.com/avinash-7562/devsecops-learning.git (fetch)
+   origin  https://github.com/avinash-7562/devsecops-learning.git (push)
+
+   $ git push
+   Everything up-to-date
+
+3. the reponame will not be updated in local even git pull wont work manually change name using mv command
+   note : reponame cannot be renamed if that is opened by any editor
